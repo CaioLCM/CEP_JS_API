@@ -1,1 +1,1 @@
-# CEP_JS_API
+Ao preencher o campo CEP e clicar fora, automaticamente os outros campos serão preenchidos.
